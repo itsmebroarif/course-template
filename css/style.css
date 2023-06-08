@@ -1,0 +1,10 @@
+/* Membuat class welcome-page berada persis ditengah */
+.welcome-page{
+    text-align: center;
+    font-family: Arial;
+    border: 5px solid #089abb;
+    border-radius: 10px;
+    margin: auto;
+    width: 50%;
+    padding: 70px 0;
+}
